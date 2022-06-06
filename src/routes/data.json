@@ -5,7 +5,8 @@
         "qty": "1",
         "qty_c": "0",
         "img": "brit",
-        "description": "Love liquorice? Try these traditional european candies directly from the UK!"
+        "description": "Love liquorice? Try these traditional european candies directly from the UK!",
+        "content": "Box full of british candy, such as the following: Haribos, Mars Bars, Twix, Milka Chocolate bars, Cadbury Chocolate, Pipers Crisps, Wotsits Crisps,Etc."
     },
 
     {
@@ -14,7 +15,8 @@
         "qty": "1",
         "qty_c": "0",
         "img": "mexicandy",
-        "description": "Delicious candies from Mexico! Enjoy all the sweet and spicy traditional flavors."
+        "description": "Delicious candies from Mexico! Enjoy all the sweet and spicy traditional flavors.",
+        "content": "Box full of mexican candy, such as the following: Obleas c/ Cajeta, Glorias, Paletas de mango con chile, Duvalin, Pelón, Pulparindo, Bocadin, Cacahuates Japoneses, Etc."
     },
 
     {
@@ -23,7 +25,8 @@
         "qty": "1",
         "qty_c": "0",
         "img": "easter",
-        "description": "Peeps, chocolate eggs, and many more treats to complement your morning egg hunt."
+        "description": "Peeps, chocolate eggs, and many more treats to complement your morning egg hunt.",
+        "content": "Box full of Easter themed candy, such as the following: Peeps, Circus Animal cookies, Cadbury eggs, Hershey’s eggs, Oreo eggs, Reese’s eggs, Rice Krispies bunny kit, Etc." 
     },
 
     {
@@ -32,7 +35,8 @@
         "qty": "1",
         "qty_c": "0",
         "img": "halloween",
-        "description": "A spooktacular mix of gummy creepy crawlies and other scary good treats."
+        "description": "A spooktacular mix of gummy creepy crawlies and other scary good treats.",
+        "content": "Box full of Halloween candy, such as the following:  Candy corn, Gummy worms, Gummy spiders, Tootsie roll caramel apple pops, Pumpkin pie kitkats, Hershey’s vampire kisses, Etc."
     },
 
     {
@@ -41,7 +45,8 @@
         "qty": "1",
         "qty_c": "0",
         "img": "japan",
-        "description": "Explore the beautiful country of Japan by tasting all these local snacks."
+        "description": "Explore the beautiful country of Japan by tasting all these local snacks.",
+        "content": "Box full of japanese candy, such as the following: Assortment of Kit Kats, Popin’ Cookin’, Chocolate Pocky, Strawberry Pocky, Umaibo, Frito-Lay Takoyaki, Pokemon Cola chewey candy, Matcha mochi, Etc."
     },
 
     {
@@ -50,6 +55,7 @@
         "qty": "1",
         "qty_c": "0",
         "img": "valentine",
-        "description": "Assortment of heart candies and chocolate treats that will taste good with company or alone."
+        "description": "Assortment of heart candies and chocolate treats that will taste good with company or alone.",
+        "content": "Box full of Valentine's Day candy, such as the following: Candy hearts, Sweet tarts, Heart shaped lollipops, Pink fun dip, Reese’s hearts, Dove chocolate hearts, Etc."
     }
 ]
