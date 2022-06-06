@@ -1,0 +1,55 @@
+[
+    {
+        "id": "1",
+        "title": "British Invasion",
+        "qty": "1",
+        "qty_c": "0",
+        "img": "brit",
+        "description": "Love liquorice? Try these traditional european candies directly from the UK!"
+    },
+
+    {
+        "id": "2",
+        "title": "Sweet Fiesta",
+        "qty": "1",
+        "qty_c": "0",
+        "img": "mexicandy",
+        "description": "Delicious candies from Mexico! Enjoy all the sweet and spicy traditional flavors."
+    },
+
+    {
+        "id": "3",
+        "title": "Bunny Basket",
+        "qty": "1",
+        "qty_c": "0",
+        "img": "easter",
+        "description": "Peeps, chocolate eggs, and many more treats to complement your morning egg hunt."
+    },
+
+    {
+        "id": "4",
+        "title": "Monster Mash",
+        "qty": "1",
+        "qty_c": "0",
+        "img": "halloween",
+        "description": "A spooktacular mix of gummy creepy crawlies and other scary good treats."
+    },
+
+    {
+        "id": "5",
+        "title": "Rising Sun",
+        "qty": "1",
+        "qty_c": "0",
+        "img": "japan",
+        "description": "Explore the beautiful country of Japan by tasting all these local snacks."
+    },
+
+    {
+        "id": "6",
+        "title": "Heart-shaped Box",
+        "qty": "1",
+        "qty_c": "0",
+        "img": "valentine",
+        "description": "Assortment of heart candies and chocolate treats that will taste good with company or alone."
+    }
+]
